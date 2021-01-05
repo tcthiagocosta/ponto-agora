@@ -1,5 +1,5 @@
 function Home() {
-    return <div>Home atualizada</div>
+    return <h2> Urias é gay</h2>
 }
 
 export default Home
