@@ -1,5 +1,12 @@
-function Home() {
-    return <h2> Urias é gay</h2>
+export default function Home() {
+  return (
+    <div>
+      <h1>
+        Thiago
+      </h1>
+      <a href="/api/page">
+        Bater ponto
+      </a>
+    </div>
+  )
 }
-
-export default Home
